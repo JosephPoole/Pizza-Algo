@@ -1,2 +1,4 @@
 Decide which business to order from
 Decid which type of pizza to order.
+Wait for delivery driver.
+Pay.
